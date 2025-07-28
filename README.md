@@ -21,3 +21,5 @@ Important links and files:
   
 
 ## Big Data Architecture Design
+
+![Architecture Design](https://github.com/stef4k/big-data-start-up-project/blob/main/final-docs/final_architecture.svg)
