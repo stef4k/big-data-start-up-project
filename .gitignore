@@ -1,0 +1,8 @@
+env/
+firebase-auth.json
+*.csv
+json/
+!csv/names.csv
+data/
+DeltaLakeSetup/jars/
+neo4j_connector_env/

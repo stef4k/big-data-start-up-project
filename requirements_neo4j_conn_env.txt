@@ -1,0 +1,10 @@
+# Requirements for using neo4j-connector to spark
+google-cloud-storage
+google-cloud-firestore
+google-cloud-bigquery
+pandas
+firebase-admin
+pyspark==3.4
+delta-spark==2.4.0
+summa
+nltk
