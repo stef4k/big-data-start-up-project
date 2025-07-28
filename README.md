@@ -23,3 +23,5 @@ Important links and files:
 ## Big Data Architecture Design
 
 ![Architecture Design](https://github.com/stef4k/big-data-start-up-project/blob/main/final-docs/final_architecture.svg)
+
+<b>Note</b>: This is not the original repository we worked on. It is a copy created to showcase our work while ensuring that all sensitive information, such as private keys and passwords, has been removed or hidden.
